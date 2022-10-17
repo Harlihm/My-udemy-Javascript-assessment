@@ -37,7 +37,7 @@ body {
     box-sizing: border-box;
     padding: 48px 32px;
     font-size: 28px;
-
+    
     position: sticky;
     top: 16px;
 }
